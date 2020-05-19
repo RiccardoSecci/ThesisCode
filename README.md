@@ -12,3 +12,5 @@ I also did a lot of sideline Analyses, which I explained thoroughly in my thesis
 In the end, the top scoring drugs are being analysing by a PhD student from the lab I worked in, and the early results look very promising.
 Known drugs that have a pro-differentiative effect appear in the top scoring ones, and the new identified pro-differentiative drugs seem to have this property, at leat in vitro.
 
+I coded both in Python and in R, as some tasks were easier with the former, some with the latter.
+
